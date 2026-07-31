@@ -1,0 +1,3 @@
+i'm shooting star...
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=s3cllcounter&leftColor=000000&rightColor=57e389&type=total&label=views&style=none)
